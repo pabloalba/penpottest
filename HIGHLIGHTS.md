@@ -6,7 +6,6 @@
 
 ## 2.17.3
 
-- MCP connection status and more
 - Design tokens: more visible, more user-friendly
 - Color picker: new list view
 - Use comments while you design
